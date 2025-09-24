@@ -1,2 +1,1 @@
-# PET-filament-machine
-A PET filament machine recycles PET bottles into 3D printer filament by cutting, heating, and extruding the plastic into consistent strands. It helps reduce waste while providing affordable, ecofriendly filament for 3D printing.
+By 2026, I’ll have completed a PET filament machine that recycles bottles into 3D printer filament. It cuts, heats, and extrudes PET into consistent strands, turning waste into affordable, eco-friendly material for sustainable 3D printing.
